@@ -1,6 +1,6 @@
 # RT-seL4
 
-https://github.com/seL4/seL4
+seL4 kernel from https://github.com/seL4/seL4
 
 Build Instruction
 =================
